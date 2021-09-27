@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ztian-econ.github.io/sitemap.xml
